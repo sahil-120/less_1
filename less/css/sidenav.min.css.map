@@ -1,0 +1,1 @@
+{"version":3,"sources":["../input"],"names":[],"mappings":"AACA,SACI,WAAA,CACA,WAAA,CACA,cAAA,CACA,YAAA,CACA,KAAA,CACA,qBAAA,CACA,SAAA,CACA","sourcesContent":["@import \"variable\";\n#sideNav{\n    width: 250px;\n    height: 60vh;\n    position: fixed;\n    right: -250px;\n    top: 0;\n    background: @background-color;\n    z-index: 2;\n    transition: .5s ease;\n}"]}
